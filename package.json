@@ -1,0 +1,21 @@
+{
+  "name": "ts-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "warmup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbahekar26/ts-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sbahekar26/ts-fullstack/issues"
+  },
+  "homepage": "https://github.com/sbahekar26/ts-fullstack#readme"
+}
